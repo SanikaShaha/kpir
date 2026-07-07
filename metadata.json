@@ -1,0 +1,6 @@
+{
+  "name": "Somaiya Robotics Virtual Lab Portal",
+  "description": "A futuristic virtual lab portal for K J Somaiya School of Engineering featuring an interactive robot simulator, attendance tracking, practical lab experiments, an AI research assistant, faculty/admin dashboards, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
